@@ -1,6 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display:wght@400;700&family=Josefin+Sans:wght@400;600;700&family=Itim:wght@400;700&display=swap');
 
 /**
  * Quartz 4.0 Configuration
@@ -21,7 +20,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Josefin Sans",
         body: "Itim",
