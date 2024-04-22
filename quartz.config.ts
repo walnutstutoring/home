@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: false,
       typography: {
         header: "Josefin Sans",
-        body: "Itim",
+        body: Itim,
         code: "Major Mono Display",
       },
       colors: {
@@ -38,8 +38,8 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
- 	  light: "#1e1e21",
- 	  dark: "#fbfffe",
+ 	  dark: "#1e1e21",
+ 	  light: "#fbfffe",
   	  secondary: "#008080",
   	  tertiary: "#2E8B57",
   	  gray: "#d4d4d4",
