@@ -1,6 +1,6 @@
 ---
 title: Types and Pricing
-draft: false
+draft: true
 ---
 
 ## Tutoring
