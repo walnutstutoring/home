@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "olympic-powerhouse.github.io",
+    baseUrl: "olympic-powerhouse.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: false,
       typography: {
         header: "Josefin Sans",
-        body: Itim,
+        body: "Itim",
         code: "Major Mono Display",
       },
       colors: {
