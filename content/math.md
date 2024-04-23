@@ -13,5 +13,13 @@ For samples, you may wish to look at the following:
 - [(Advanced) Moving Points](moving_points.md)
 
 
-| **Algebra** | **Combinatorics** | **Geometry** | **Number Theory** |
-| Polynomials | Counting | Circle Geometry | Modulo |
+## Algebra
+
+
+## Combinatorics
+
+
+## Geometry
+
+
+## Number Theory
