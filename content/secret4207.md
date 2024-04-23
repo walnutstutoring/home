@@ -9,9 +9,12 @@ Tutoring for competitions is unique, in that it's all about **growing the studen
 1. Teaching problem-solving methods
 2. Exposing students to examples (such as by walking them through a solution)
 3. Practice!
+
 I aim to hit all three points with my program. During the lessons, students will be taught problem-solving techniques, including but not limited to theorems, methods, and exam strategies. In addition, they will be walked through select past questions, designed to give them a good understanding of the general concept, and examples of proper solutions and how to write them. 
 
 After each lesson, students will receive a problem set, identical to the mentor program **but** not only specifically tailored to their skill level, but also the *specific content* that is being covered during sessions. 
+
+![[tutoring.png]]
 
 ## Mentoring
 
