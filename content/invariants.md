@@ -1,4 +1,0 @@
----
-title: Invariants
-enableToc: false
----

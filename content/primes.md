@@ -1,4 +1,0 @@
----
-title: Primes
-enableToc: false
----

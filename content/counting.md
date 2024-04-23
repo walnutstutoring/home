@@ -1,4 +1,0 @@
----
-title: Counting
-enableToc: false
----

@@ -1,4 +1,0 @@
----
-title: Modulo
-enableToc: false
----
