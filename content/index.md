@@ -1,3 +1,10 @@
+---
+title: Home
+draft: false
+tags:
+  - home
+---
+
 Welcome to this website. Here are the main subgroups:
 
 - [Mathematics](math.md)
