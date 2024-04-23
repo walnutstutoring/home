@@ -10,7 +10,7 @@ Competitive physics has multiple important fields in which problems may be sorte
 For samples, you may wish to look at the following:
 - [(Basic) Linear Motion](linear_motion.md)
 - [(Intermediate) Introduction to Electromagnetism](emag_intro.md)
-- [(Advanced) Euler-Lagrange](euler-lagrange.md)
+- [(Advanced) Euler-Lagrange](euler_lagrange.md)
 
 
 ## Mechanics
