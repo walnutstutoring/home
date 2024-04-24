@@ -42,7 +42,7 @@ Junior | Intermediate | Senior
 Angle Chasing | Radicals and Tangents | Directed Angles
 Areas and Ratios | Length Chasing | Projective
 Circle Geometry | Configs I | Configs II
-Colinearity | Ceva-Menelaus and PoP | LinPoP
+Colinearity | Incidence | LinPoP
 Transformations | Spiral Symmetries | Inversion
 
 
@@ -51,8 +51,7 @@ Transformations | Spiral Symmetries | Inversion
 Junior | Intermediate | Senior
 --- | --- | ---
 Constructions I | Constructions II | Size
-Divisibility I | Divisibility II | 
-Diophantine I | Diophantine II | Vieta
-Factorials | Exponentials | Expressions
+Divisibility I | Divisibility II | Expressions
+Diophantine I | Factorials and Exponents |Diophantine II
 Modulo | Arithmetic Functions I | Arithmetic Functions II 
 Primes I | Primes II | *p*-Adic's
