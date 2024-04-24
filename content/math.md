@@ -38,10 +38,11 @@ Junior | Intermediate | Senior
 
 Junior | Intermediate | Senior
 --- | --- | ---
-| |
-| |
-| |
-| |
+Angle Chasing |  |
+Areas and Ratios | |
+Circle Geometry | Essential Configs | Advanced Configs
+Colinearity | Ceva-Menelaus and PoP |
+Transformations | |
 
 
 ## Number Theory
