@@ -15,6 +15,10 @@ For samples, you may wish to look at the following:
 
 ## Algebra
 
+heading 1 | heading 2 | heading 3
+--- | --- | ---
+abc | bcd | cde
+def | efg | fgh
 
 ## Combinatorics
 
