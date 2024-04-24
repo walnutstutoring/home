@@ -19,8 +19,8 @@ Junior | Intermediate | Senior
 --- | --- | ---
 AM-GM | Inequalities | HMS
 Complex | Complex | Calculus
-Functions | Functional Equations | Functional Equations
-Trigonometry | Trigonometry | Monstrous FE's
+Functions | FE I | FE II
+Trigonometry | Trigonometry | Monstrous FE
 Polynomials | Polynomials | Polynomials
 
 
@@ -28,28 +28,31 @@ Polynomials | Polynomials | Polynomials
 
 Junior | Intermediate | Senior
 --- | --- | ---
-| |
-| |
-| |
-| |
+Counting I | Counting II | Recursion
+PHP | Bijections | CG I
+Sets I | Sets II | CG II
+Permutations | Invariants | Strategies
+Handshakes | Graph I | Graph II
 
 
 ## Geometry
 
 Junior | Intermediate | Senior
 --- | --- | ---
-Angle Chasing |  |
-Areas and Ratios | |
-Circle Geometry | Essential Configs | Advanced Configs
-Colinearity | Ceva-Menelaus and PoP |
-Transformations | |
+Angle Chasing | Radicals and Tangents | Directed Angles
+Areas and Ratios | Length Chasing | Projective
+Circle Geometry | Configs I | Configs II
+Colinearity | Ceva-Menelaus and PoP | LinPoP
+Transformations | Spiral Symmetries | Inversion
 
 
 ## Number Theory
 
 Junior | Intermediate | Senior
 --- | --- | ---
-| |
-| |
-| |
-| |
+Constructions I | Constructions II | Size
+Divisibility I | Divisibility II | 
+Diophantine I | Diophantine II | Vieta
+Factorials | Exponentials | Expressions
+Modulo | Arithmetic Functions I | Arithmetic Functions II 
+Primes I | Primes II | *p*-Adic's
