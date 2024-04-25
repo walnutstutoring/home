@@ -19,7 +19,7 @@ Junior | Intermediate | Senior
 --- | --- | ---
 AM-GM | Inequalities | HMS
 Complex | Complex | Calculus
-Functions | FE I | FE II
+Functions | FE I | FE I I
 Trigonometry | Trigonometry | Monstrous FE
 Polynomials | Polynomials | Polynomials
 
