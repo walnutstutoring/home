@@ -53,5 +53,5 @@ Junior | Intermediate | Senior
 Constructions I | Constructions II | Size
 Divisibility I | Divisibility II | Expressions
 Diophantine I | Factorials and Exponents |Diophantine II
-Modulo | Arithmetic Functions I | Arithmetic Functions II 
+Modulo | Arithmetic Functions I | Arithmetic Functions II
 Primes I | Primes II | *p*-Adic's
