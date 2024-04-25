@@ -41,7 +41,7 @@ Junior | Intermediate | Senior
 --- | --- | ---
 Angle Chasing | Radicals and Tangents | Directed Angles
 Areas and Ratios | Length Chasing | Projective
-Circle Geometry | Configs I | Configs II
+Circle Geometry | Configs I | Configs ||
 Colinearity | Incidence | LinPoP
 Transformations | Spiral Symmetries | Inversion
 
