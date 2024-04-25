@@ -19,7 +19,7 @@ Junior | Intermediate | Senior
 --- | --- | ---
 AM-GM | Inequalities | HMS
 Complex | Complex | Calculus
-Functions | FE I | FE II
+Functions | FE | FE
 Trigonometry | Trigonometry | Monstrous FE
 Polynomials | Polynomials | Polynomials
 
@@ -28,11 +28,11 @@ Polynomials | Polynomials | Polynomials
 
 Junior | Intermediate | Senior
 --- | --- | ---
-Counting I | Counting II | Recursion
-PHP | Bijections | CG I
-Sets I | Sets II | CG II
+Counting | Counting | Recursion
+PHP | Bijections | CGA
+Sets | Sets | CGB
 Permutations | Invariants | Strategies
-Handshakes | Graph I | Graph II
+Handshakes | Graph | Graph
 
 
 ## Geometry
@@ -41,7 +41,7 @@ Junior | Intermediate | Senior
 --- | --- | ---
 Angle Chasing | Radicals and Tangents | Directed Angles
 Areas and Ratios | Length Chasing | Projective
-Circle Geometry | Configs I | Configs ||
+Circle Geometry | Configs | Configs
 Colinearity | Incidence | LinPoP
 Transformations | Spiral Symmetries | Inversion
 
@@ -50,8 +50,8 @@ Transformations | Spiral Symmetries | Inversion
 
 Junior | Intermediate | Senior
 --- | --- | ---
-Constructions I | Constructions II | Size
-Divisibility I | Divisibility II | Expressions
-Diophantine I | Factorials and Exponents |Diophantine II
-Modulo | Arithmetic Functions I | Arithmetic Functions II
-Primes I | Primes II | *p*-Adic's
+Constructions | Constructions | Size
+Divisibility | Divisibility | Expressions
+Diophantine | Factorials and Exponents | Diophantine
+Modulo | Arithmetic Functions | Arithmetic Functions
+Primes | Primes | *p*-Adic's
