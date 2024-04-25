@@ -39,7 +39,7 @@ Handshakes | Graph | Graph
 
 Junior | Intermediate | Senior
 --- | --- | ---
-Angle Chasing | Radicals and Tangents | Directed Angles
+Angle Chasing | Radicals and Tangents | Moving Points
 Areas and Ratios | Length Chasing | Projective
 Circle Geometry | Configs | Configs
 Colinearity | Incidence | LinPoP
