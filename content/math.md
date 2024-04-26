@@ -18,21 +18,19 @@ For samples, you may wish to look at the following:
 Junior | Intermediate | Senior
 --- | --- | ---
 AM-GM | Inequalities | HMS
-Complex | Complex | Calculus
-Functions | FE | FE
+Functions | Complex | FE
 Trigonometry | Trigonometry | Monstrous FE
-Polynomials | Polynomials | Polynomials
+Polynomials | Polynomials | Calculus
 
 
 ## Combinatorics
 
 Junior | Intermediate | Senior
 --- | --- | ---
-Counting | Counting | Recursion
+Counting | Graph | Graph
 PHP | Bijections | CGA
 Sets | Sets | CGB
 Permutations | Invariants | Strategies
-Handshakes | Graph | Graph
 
 
 ## Geometry
@@ -43,7 +41,6 @@ Angle Chasing | Radicals and Tangents | Moving Points
 Areas and Ratios | Length Chasing | Projective
 Circle Geometry | Configs | Configs
 Colinearity | Incidence | LinPoP
-Transformations | Spiral Symmetries | Inversion
 
 
 ## Number Theory
@@ -51,7 +48,6 @@ Transformations | Spiral Symmetries | Inversion
 Junior | Intermediate | Senior
 --- | --- | ---
 Constructions | Constructions | Size
-Divisibility | Divisibility | Expressions
-Diophantine | Factorials and Exponents | Diophantine
+Divisibility | Diophantine | Expressions
 Modulo | Arithmetic Functions | Arithmetic Functions
 Primes | Primes | *p*-Adic's
