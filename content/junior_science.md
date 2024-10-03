@@ -1,6 +1,6 @@
 ---
 title: Junior Science
-draft: false
+draft: true
 ---
 
 The **junior science program** is a new introduction to Australia, but it's quickly becoming a prominent extension program for young students across the country. For any young people wanting to get into the senior programs, this is a good starting block. 
